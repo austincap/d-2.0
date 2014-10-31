@@ -1,6 +1,6 @@
 A decentralized decision making system.
 
-PLEASE: If you think something in this document doesn't make sense, immediately propose an edit!
+Forking is encouraged.
 
 INTRO
 
