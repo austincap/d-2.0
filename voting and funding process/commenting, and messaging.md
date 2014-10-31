@@ -1,0 +1,5 @@
+Every user can enter a comment below the text of every legislation post on that legislation’s page. The user has the option to reply to previous comments, or highlight portions of the legislation and tie the highlighted portion to his comment. The highlight only shows up when the comment is clicked. Comments can also highlight and reply to other comments. Comments can be made anonymous, but they cannot be edited or deleted after being posted.
+
+A thumbs up button next to each comment allows users to upvote it, increasing visibility and moving it to the top of the legislation post page. All replies to this comment are brought up to the top as well, but they are hidden, unless they also have high upvote counts.
+
+There are 3 fields a user must fill out to send a private message to another user: desired recipient user name, a message with a 4,000 character limit, a subject title. All sent and received messaged are stored an outbox and inbox respectively accessed through the account history page.

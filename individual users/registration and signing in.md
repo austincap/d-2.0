@@ -1,0 +1,5 @@
+Registration is required before using the system. Users must input their first and last name, as well as the state, county, and zip code they are registered to vote in. This data is used in conjunction with the user’s state’s corresponding voter look-up website to confirm that they are in fact a registered voter.
+
+Once their identity is verified, the user inputs a user name, password, and email address. The user is also encouraged to fill in a myriad of other data such as address and contact information, but this is not required. The registered user’s real first name, last name and registered location are stored.
+
+Every time the registered user (hereafter referred to as user) signs in to the system, their IP address is recorded and this information becomes available for all users to see. In the smartphone app for this system, the user’s GPS location data is recorded and also available for all other users to see.
